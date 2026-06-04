@@ -16,7 +16,10 @@ https://your-app-link.streamlit.app
 
 📸 Project Preview
 
-![Dashboard](png)
+![Dashboard](pg1.png)
+
+
+![Dashboard](pg2.png)
 
 
 ---
