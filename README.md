@@ -182,15 +182,6 @@ Make better financial decisions
 
 Track financial health visually
 
-
-
----
-
-👨‍💻 Author
-
-Kumar Vyshnav Pampina
-
-
 ---
 
 ⭐ Support
