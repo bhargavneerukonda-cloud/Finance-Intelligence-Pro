@@ -184,6 +184,11 @@ Track financial health visually
 
 ---
 
+👨‍💻 Author
+
+Neerukonda Surya Mani Bhargav
+
+---
 ⭐ Support
 
 If you like this project, please ⭐ the repository
